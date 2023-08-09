@@ -1,8 +1,6 @@
 /* header */
 
 .debug .col-4 {
-    background-color: red;
-    border: 1px solid white;
     height: 80px;
 }
 
@@ -15,4 +13,10 @@ nav a {
     height: 50%;
     width: 2px;
     background-color: white;
+}
+
+.left_side_bar a {
+    text-decoration: none;
+    color: white;
+
 }
